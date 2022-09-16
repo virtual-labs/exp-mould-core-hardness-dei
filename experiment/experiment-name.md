@@ -1,1 +1,1 @@
-## Experiment name
+## Mould hardness & Core hardness
