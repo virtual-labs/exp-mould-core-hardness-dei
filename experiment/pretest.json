@@ -2,37 +2,58 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Which of the following type of instrument types is categorised for mould hardness tester and core hardness tester:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Null deflection",
+		"b": "Indicating",
+		"c": "Integrating",
+		"d": "Recording"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Mould hardness test is comparable to:",
+      "answers": {
+        "a": "Viker's hardness test",
+		"b": "Rockwell hardness test",
+		"c": "Brinell's hardness test",
+		"d": "Knoop hardness test"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Moulding sand that is naturally moist is:",
+      "answers": {
+        "a": "Green sand",
+		"b": "Parting sand",
+		"c": "Facing sand",
+		"d": "Backing sand"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "4. The reason for using tungsten carbide (WC) in scratch-type testers is because it is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Dark in colour",
+		"b": "Hexagonal in structure",
+		"c": "Hard",
+		"d": "Non-oxidising"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which of the following cores cannot be used for core hardness test:",
+      "answers": {
+        "a": "Green cores",
+		"b": "Dry sand cores",
+		"c": "Baked cores",
+		"d": "All of the above"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

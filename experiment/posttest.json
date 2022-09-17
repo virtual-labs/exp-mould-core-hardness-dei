@@ -2,38 +2,59 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Range of measurement of mould hardness tester and core hardness tester is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "0 to 100",
+		"b": "0 to 200",
+		"c": "0 to 50",
+		"d": "0 to 150"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Which tool is used to transfer moulding sand into the moulding flask:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Strike-off bar",
+		"b": "Riddle",
+		"c": "Shovel",
+		"d": "Sprue pin"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+	{
+      "question": "3. How many indentations were made in mould hardness test:",
+      "answers": {
+        "a": "3",
+		"b": "1",
+		"c": "4",
+		"d": "5"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "4. What is measured by core hardness tester:",
+      "answers": {
+        "a": "Interior hardness of core",
+		"b": "Surface hardness of core",
+		"c": "Microhardness of core",
+		"d": "Strength of core"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Intermediate"
+    },
+	{
+      "question": "5. Tip of mould hardness tester is made up of:",
+      "answers": {
+        "a": "Alloy steel",
+		"b": "Tungsten Carbide",
+		"c": "Brass",
+		"d": "Cast iron"
+      },
+     "correctAnswer": "a",
+      "difficulty": "Intermediate"
     }
   ]
 }
