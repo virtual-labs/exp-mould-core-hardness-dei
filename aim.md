@@ -1,0 +1,1 @@
+### To determine mould hardness and core hardness of the given sample.
