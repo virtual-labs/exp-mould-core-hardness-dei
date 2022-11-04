@@ -7,7 +7,7 @@
 * The tester has a dial indicator ranging between 0 to 100.
 * The indentor is mechanically a steel ball with a spring loaded plunger.
 
-! [Mould Hardness Tester] (images/mould.jpg "mould.jpg")
+(images/mould.jpg "mould.jpg")
 
 ### Core hardness
 * It is the numeric measure of bonding and hardness of the cores.
@@ -17,7 +17,7 @@
 * It is a scratch-type tester in which consists of a carbide tipped plough.
 * It is also a dial indicator with the range between 0 to 100.
 
-! [Core Hardness Tester] (images/core.jpg "core.jpg")
+(images/core.jpg "core.jpg")
 
 ### Applications
 * Mould hardness tester finds out the Green mould hardness of the sand mould prepared by any method e.g: Hand molding, Jolt Squeeze molding etc.
