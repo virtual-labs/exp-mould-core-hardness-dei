@@ -8,7 +8,7 @@
 * The indentor is mechanically a steel ball with a spring loaded plunger.
 
 !(images/mould.jpg "mould.jpg")
-![Mould Hardness Tester](images/mould.jpg "Mould Hardness Tester")
+!(images/mould.jpg "Mould Hardness Tester")
 
 ### Core hardness
 * It is the numeric measure of bonding and hardness of the cores.
@@ -19,7 +19,7 @@
 * It is also a dial indicator with the range between 0 to 100.
 
 !(images/core.jpg "core.jpg")
-![Core Hardness Tester](images/core.jpg "Core Hardness Tester")
+!(images/core.jpg "Core Hardness Tester")
 
 ### Applications
 * Mould hardness tester finds out the Green mould hardness of the sand mould prepared by any method e.g: Hand molding, Jolt Squeeze molding etc.
