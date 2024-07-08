@@ -9,6 +9,14 @@
 		"c": "0 to 50",
 		"d": "0 to 150"
       },
+	  
+      "explanations": {
+        "a": "The range of measurement for mold hardness testers and core hardness testers commonly used in foundries typically falls within the range of 0 to 100 units. This scale allows for measuring the hardness of molds and cores effectively within the typical range encountered in foundry applications.",
+        "b": "The range of measurement for mold hardness testers and core hardness testers commonly used in foundries typically falls within the range of 0 to 100 units. This scale allows for measuring the hardness of molds and cores effectively within the typical range encountered in foundry applications.",
+        "c": "The range of measurement for mold hardness testers and core hardness testers commonly used in foundries typically falls within the range of 0 to 100 units. This scale allows for measuring the hardness of molds and cores effectively within the typical range encountered in foundry applications.",
+        "d": "The range of measurement for mold hardness testers and core hardness testers commonly used in foundries typically falls within the range of 0 to 100 units. This scale allows for measuring the hardness of molds and cores effectively within the typical range encountered in foundry applications."
+      },
+	  
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -20,6 +28,14 @@
 		"c": "Shovel",
 		"d": "Sprue pin"
       },
+	  
+      "explanations": {
+        "a": "A shovel is commonly used to scoop up and transfer molding sand from its storage area into the molding flask. This process ensures that the sand is properly distributed and packed within the flask to create the mold cavity.",
+        "b": "A shovel is commonly used to scoop up and transfer molding sand from its storage area into the molding flask. This process ensures that the sand is properly distributed and packed within the flask to create the mold cavity.",
+        "c": "A shovel is commonly used to scoop up and transfer molding sand from its storage area into the molding flask. This process ensures that the sand is properly distributed and packed within the flask to create the mold cavity.",
+        "d": "A shovel is commonly used to scoop up and transfer molding sand from its storage area into the molding flask. This process ensures that the sand is properly distributed and packed within the flask to create the mold cavity."
+      },
+	  
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -27,10 +43,18 @@
       "question": "3. How many indentations were made in mould hardness test:",
       "answers": {
         "a": "3",
-		"b": "1",
-		"c": "4",
-		"d": "5"
+	"b": "1",
+	"c": "4",
+	"d": "5"
       },
+	  
+      "explanations": {
+        "a": "In some mold hardness testing methods, especially those using instruments like a Brinell hardness tester adapted for mold testing, multiple indentations may be made to obtain an average hardness value across different areas of the mold surface. This approach helps to ensure a more representative measurement of the mold's hardness.",
+        "b": "In some mold hardness testing methods, especially those using instruments like a Brinell hardness tester adapted for mold testing, multiple indentations may be made to obtain an average hardness value across different areas of the mold surface. This approach helps to ensure a more representative measurement of the mold's hardness.",
+        "c": "In some mold hardness testing methods, especially those using instruments like a Brinell hardness tester adapted for mold testing, multiple indentations may be made to obtain an average hardness value across different areas of the mold surface. This approach helps to ensure a more representative measurement of the mold's hardness.",
+        "d": "In some mold hardness testing methods, especially those using instruments like a Brinell hardness tester adapted for mold testing, multiple indentations may be made to obtain an average hardness value across different areas of the mold surface. This approach helps to ensure a more representative measurement of the mold's hardness."
+      },
+	  
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -38,21 +62,37 @@
       "question": "4. What is measured by core hardness tester:",
       "answers": {
         "a": "Interior hardness of core",
-		"b": "Surface hardness of core",
-		"c": "Microhardness of core",
-		"d": "Strength of core"
+	"b": "Surface hardness of core",
+	"c": "Microhardness of core",
+	"d": "Strength of core"
       },
-      "correctAnswer": "b",
+	  
+      "explanations": {
+        "a": "This is the primary measurement taken by core hardness testers. It assesses how hard the core material is throughout its interior.",
+        "b": "While important, surface hardness is typically measured separately and may involve different testing methods or instruments.",
+        "c": "Microhardness testing involves very fine scales and is used to measure the hardness of small regions or features within a material, which is not the main focus of core hardness testing.",
+        "d": "While hardness is related to strength, core hardness testing specifically focuses on measuring the material's resistance to indentation or penetration, not its overall strength under load."
+      },
+	  
+      "correctAnswer": "a",
       "difficulty": "Intermediate"
     },
 	{
       "question": "5. Tip of mould hardness tester is made up of:",
       "answers": {
         "a": "Alloy steel",
-		"b": "Tungsten Carbide",
-		"c": "Brass",
-		"d": "Cast iron"
+	"b": "Tungsten Carbide",
+	"c": "Brass",
+	"d": "Cast iron"
       },
+	  
+      "explanations": {
+        "a": "Alloy steel is a strong and durable material commonly used for the tips of hardness testers. It can withstand the pressures and wear associated with making indentations on the mold surface to measure hardness.",
+        "b": "Alloy steel is a strong and durable material commonly used for the tips of hardness testers. It can withstand the pressures and wear associated with making indentations on the mold surface to measure hardness.",
+        "c": "Alloy steel is a strong and durable material commonly used for the tips of hardness testers. It can withstand the pressures and wear associated with making indentations on the mold surface to measure hardness.",
+        "d": "Alloy steel is a strong and durable material commonly used for the tips of hardness testers. It can withstand the pressures and wear associated with making indentations on the mold surface to measure hardness."
+      },
+	  
      "correctAnswer": "a",
       "difficulty": "Intermediate"
     }
