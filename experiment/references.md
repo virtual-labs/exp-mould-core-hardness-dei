@@ -1,1 +1,3 @@
-### Link your references in here
+## References:
+
+Sarkar, A. D. (2014). Mould & core material for the steel foundry. Elsevier.
