@@ -4,7 +4,7 @@
 <b>Discipline | <b> Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab
-<b> Experiment|     <b> To determine permeability number of green sand, core sand and raw sand
+<b> Experiment|     <b> To determine mould hardness and core hardness of the given sample
 
 ### About the Experiment 
 
