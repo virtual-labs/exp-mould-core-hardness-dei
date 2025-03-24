@@ -2,97 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Which of the following type of instrument types is categorised for mould hardness tester and core hardness tester:",
+      "question": "What does mould hardness measure? (LO1)",
       "answers": {
-        "a": "Null deflection",
-	"b": "Indicating",
-	"c": "Integrating",
-	"d": "Recording"
+        "a": "The amount of binder in the sand",
+        "b": "The permeability of the mould",
+        "c": "The ramming strength of the mould",
+        "d": "The surface roughness of the casting"
       },
-	  
       "explanations": {
-        "a": "Indicating instruments are designed to provide a direct and instantaneous reading of a measurement. In the context of mold hardness testers and core hardness testers, these instruments might display the hardness value directly on a dial, digital display, or through some other means after the test is conducted.",
-        "b": "Indicating instruments are designed to provide a direct and instantaneous reading of a measurement. In the context of mold hardness testers and core hardness testers, these instruments might display the hardness value directly on a dial, digital display, or through some other means after the test is conducted.",
-        "c": "Indicating instruments are designed to provide a direct and instantaneous reading of a measurement. In the context of mold hardness testers and core hardness testers, these instruments might display the hardness value directly on a dial, digital display, or through some other means after the test is conducted.",
-        "d": "Indicating instruments are designed to provide a direct and instantaneous reading of a measurement. In the context of mold hardness testers and core hardness testers, these instruments might display the hardness value directly on a dial, digital display, or through some other means after the test is conducted."
+        "a": ": Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects.",
+        "b": ": Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects.",
+        "c": ": Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects.",
+        "d": ": Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects."
       },
-	  
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The mould hardness tester is based on which principle? (LO2)",
+      "answers": {
+        "a": "Scratch testing",
+        "b": "Indentation testing",
+        "c": "Electrical resistance testing",
+        "d": "The surface roughness of the casting"
+      },
+      "explanations": {
+       "a": "Mould hardness testers operate on the indentation principle. A steel ball or indentor is pressed into the mould surface under a controlled force, and the depth of penetration is measured to determine hardness. Harder moulds show shallower indentations, while softer moulds allow deeper penetration.",
+        "b":"Mould hardness testers operate on the indentation principle. A steel ball or indentor is pressed into the mould surface under a controlled force, and the depth of penetration is measured to determine hardness. Harder moulds show shallower indentations, while softer moulds allow deeper penetration.",
+        "c":"Mould hardness testers operate on the indentation principle. A steel ball or indentor is pressed into the mould surface under a controlled force, and the depth of penetration is measured to determine hardness. Harder moulds show shallower indentations, while softer moulds allow deeper penetration.",
+        "d":"Mould hardness testers operate on the indentation principle. A steel ball or indentor is pressed into the mould surface under a controlled force, and the depth of penetration is measured to determine hardness. Harder moulds show shallower indentations, while softer moulds allow deeper penetration."
+      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
-    {
-      "question": "2. Mould hardness test is comparable to:",
+  {
+      "question": "The dial indicator of a mould hardness tester typically ranges between: (LO2)",
       "answers": {
-        "a": "Viker's hardness test",
-	"b": "Rockwell hardness test",
-	"c": "Brinell's hardness test",
-	"d": "Knoop hardness test"
+        "a": "0 – 50",
+        "b": "0 – 75",
+        "c": "0 – 100",
+        "d": "0 – 150"
       },
-	  
       "explanations": {
-        "a": "Mold hardness testing is often compared to Brinell hardness testing because both methods involve applying a specific load to indent the material being tested. In mold hardness testing, a standardized test specimen (mold or core) is subjected to a defined load, and the depth or size of the indentation left by the indenter is measured. Similarly, in Brinell hardness testing, a hardened steel ball is pressed into the surface of the material under a specified load, and the diameter of the impression is measured.",
-        "b": "Mold hardness testing is often compared to Brinell hardness testing because both methods involve applying a specific load to indent the material being tested. In mold hardness testing, a standardized test specimen (mold or core) is subjected to a defined load, and the depth or size of the indentation left by the indenter is measured. Similarly, in Brinell hardness testing, a hardened steel ball is pressed into the surface of the material under a specified load, and the diameter of the impression is measured.",
-        "c": "Mold hardness testing is often compared to Brinell hardness testing because both methods involve applying a specific load to indent the material being tested. In mold hardness testing, a standardized test specimen (mold or core) is subjected to a defined load, and the depth or size of the indentation left by the indenter is measured. Similarly, in Brinell hardness testing, a hardened steel ball is pressed into the surface of the material under a specified load, and the diameter of the impression is measured.",
-        "d": "Mold hardness testing is often compared to Brinell hardness testing because both methods involve applying a specific load to indent the material being tested. In mold hardness testing, a standardized test specimen (mold or core) is subjected to a defined load, and the depth or size of the indentation left by the indenter is measured. Similarly, in Brinell hardness testing, a hardened steel ball is pressed into the surface of the material under a specified load, and the diameter of the impression is measured."
+        "a": "The mould hardness tester uses a dial indicator with a 0-100 scale, where higher values indicate greater hardness. This standardized range helps foundry workers quickly assess the uniformity and strength of moulds. Measuring hardness ensures the mould is neither too soft (prone to collapse) nor too hard (causing poor metal flow).",
+        "b": "The mould hardness tester uses a dial indicator with a 0-100 scale, where higher values indicate greater hardness. This standardized range helps foundry workers quickly assess the uniformity and strength of moulds. Measuring hardness ensures the mould is neither too soft (prone to collapse) nor too hard (causing poor metal flow).",
+        "c": "The mould hardness tester uses a dial indicator with a 0-100 scale, where higher values indicate greater hardness. This standardized range helps foundry workers quickly assess the uniformity and strength of moulds. Measuring hardness ensures the mould is neither too soft (prone to collapse) nor too hard (causing poor metal flow).",
+        "d": "The mould hardness tester uses a dial indicator with a 0-100 scale, where higher values indicate greater hardness. This standardized range helps foundry workers quickly assess the uniformity and strength of moulds. Measuring hardness ensures the mould is neither too soft (prone to collapse) nor too hard (causing poor metal flow)."
       },
-	  
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
-    {
-      "question": "3. Moulding sand that is naturally moist is:",
+  {
+      "question": "Which of the following is an application of the mould hardness tester? (LO1)",
       "answers": {
-        "a": "Green sand",
-	"b": "Parting sand",
-	"c": "Facing sand",
-	"d": "Backing sand"
+        "a": "Measuring the permeability of the mould",
+        "b": "Checking the roughness of the final casting",
+        "c": "Measuring the green mould hardness",
+        "d": "Determining the cooling rate of molten metal"
+        
       },
-	  
       "explanations": {
-        "a": "This is a mixture of sand, clay (usually bentonite), water, and sometimes other additives. It is called green sand because it is used in a moist, uncured state. The moisture in green sand helps in compacting and molding processes without the need for additional water.",
-        "b": "Parting sand is used to prevent sand molds from sticking to each other or to the pattern. It is a dry, fine sand that is applied on mold surfaces.",
-        "c": "Facing sand is used on the mold surface closest to the pattern. It typically has a high-quality, fine grain to give a smooth casting surface finish.",
-        "d": "Backing sand is used to back up the facing sand and is used to fill the flask. It supports the facing sand and any cores that are used."
+       "a": "The mould hardness tester is primarily used to measure the green hardness of sand moulds before drying or metal pouring. This ensures that the mould has the required strength to withstand the casting process without breaking. Proper hardness also helps control gas escape and metal flow, reducing casting defects like porosity and shrinkage.",
+        "b": "The mould hardness tester is primarily used to measure the green hardness of sand moulds before drying or metal pouring. This ensures that the mould has the required strength to withstand the casting process without breaking. Proper hardness also helps control gas escape and metal flow, reducing casting defects like porosity and shrinkage.",
+        "c": "The mould hardness tester is primarily used to measure the green hardness of sand moulds before drying or metal pouring. This ensures that the mould has the required strength to withstand the casting process without breaking. Proper hardness also helps control gas escape and metal flow, reducing casting defects like porosity and shrinkage.",
+        "d": "The mould hardness tester is primarily used to measure the green hardness of sand moulds before drying or metal pouring. This ensures that the mould has the required strength to withstand the casting process without breaking. Proper hardness also helps control gas escape and metal flow, reducing casting defects like porosity and shrinkage."
       },
-	  
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "4. The reason for using tungsten carbide (WC) in scratch-type testers is because it is:",
-      "answers": {
-        "a": "Dark in colour",
-	"b": "Hexagonal in structure",
-	"c": "Hard",
-	"d": "Non-oxidising"
-      },
-	  
-      "explanations": {
-        "a": "Tungsten carbide is one of the hardest materials known, second only to diamond in terms of hardness. This makes it ideal for use as the indenter in scratch testers, where it is used to scratch or indent materials of varying hardness to determine their relative hardness.",
-        "b": "Tungsten carbide is one of the hardest materials known, second only to diamond in terms of hardness. This makes it ideal for use as the indenter in scratch testers, where it is used to scratch or indent materials of varying hardness to determine their relative hardness.",
-        "c": "Tungsten carbide is one of the hardest materials known, second only to diamond in terms of hardness. This makes it ideal for use as the indenter in scratch testers, where it is used to scratch or indent materials of varying hardness to determine their relative hardness.",
-        "d": "Tungsten carbide is one of the hardest materials known, second only to diamond in terms of hardness. This makes it ideal for use as the indenter in scratch testers, where it is used to scratch or indent materials of varying hardness to determine their relative hardness."
-      },
-	  
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
-    {
-      "question": "5. Which of the following cores cannot be used for core hardness test:",
+ {
+      "question": "What should NOT be done while using the mould hardness tester? (LO2)",
       "answers": {
-        "a": "Green cores",
-	"b": "Dry sand cores",
-	"c": "Baked cores",
-	"d": "All of the above"
+        "a": "Clean the tester before and after use",
+        "b": "Tamper with the calibration settings",
+        "c": "Ensure proper contact with the mould",
+        "d": "Take multiple readings for accuracy"
       },
-	  
       "explanations": {
-        "a": "Dry sand cores cannot be used for core hardness testing because they lack sufficient moisture to hold together and maintain their shape during the test. Core hardness testing typically involves applying a specified load to the core to measure its hardness. Dry sand cores would crumble or disintegrate under such pressure because they do not have the necessary binding properties provided by moisture or binders.",
-        "b": "Dry sand cores cannot be used for core hardness testing because they lack sufficient moisture to hold together and maintain their shape during the test. Core hardness testing typically involves applying a specified load to the core to measure its hardness. Dry sand cores would crumble or disintegrate under such pressure because they do not have the necessary binding properties provided by moisture or binders.",
-        "c": "Dry sand cores cannot be used for core hardness testing because they lack sufficient moisture to hold together and maintain their shape during the test. Core hardness testing typically involves applying a specified load to the core to measure its hardness. Dry sand cores would crumble or disintegrate under such pressure because they do not have the necessary binding properties provided by moisture or binders.",
-        "d": "Dry sand cores cannot be used for core hardness testing because they lack sufficient moisture to hold together and maintain their shape during the test. Core hardness testing typically involves applying a specified load to the core to measure its hardness. Dry sand cores would crumble or disintegrate under such pressure because they do not have the necessary binding properties provided by moisture or binders."
+        "a": "The calibration settings of the mould hardness tester are pre-adjusted to ensure accurate and reliable hardness measurements. Tampering with these settings can lead to misleading results, affecting quality control and causing defects in the final casting. To ensure precise measurements, the device should be properly maintained and used as per standard operating procedures.",
+        "b": "The calibration settings of the mould hardness tester are pre-adjusted to ensure accurate and reliable hardness measurements. Tampering with these settings can lead to misleading results, affecting quality control and causing defects in the final casting. To ensure precise measurements, the device should be properly maintained and used as per standard operating procedures.",
+        "c": "The calibration settings of the mould hardness tester are pre-adjusted to ensure accurate and reliable hardness measurements. Tampering with these settings can lead to misleading results, affecting quality control and causing defects in the final casting. To ensure precise measurements, the device should be properly maintained and used as per standard operating procedures.",
+        "d": "The calibration settings of the mould hardness tester are pre-adjusted to ensure accurate and reliable hardness measurements. Tampering with these settings can lead to misleading results, affecting quality control and causing defects in the final casting. To ensure precise measurements, the device should be properly maintained and used as per standard operating procedures."
       },
-	  
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
