@@ -2,99 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Range of measurement of mould hardness tester and core hardness tester is:",
+      "question": "What is the primary objective of this experiment? (LO1)",
       "answers": {
-        "a": "0 to 100",
-		"b": "0 to 200",
-		"c": "0 to 50",
-		"d": "0 to 150"
+        "a": "To determine the porosity of sand",
+        "b": "To measure the hardness of mould and core samples",
+        "c": "To evaluate the moisture content in the sand",
+        "d": "To determine the permeability of the mould"
       },
-	  
       "explanations": {
-        "a": "The range of measurement for mold hardness testers and core hardness testers commonly used in foundries typically falls within the range of 0 to 100 units. This scale allows for measuring the hardness of molds and cores effectively within the typical range encountered in foundry applications.",
-        "b": "The range of measurement for mold hardness testers and core hardness testers commonly used in foundries typically falls within the range of 0 to 100 units. This scale allows for measuring the hardness of molds and cores effectively within the typical range encountered in foundry applications.",
-        "c": "The range of measurement for mold hardness testers and core hardness testers commonly used in foundries typically falls within the range of 0 to 100 units. This scale allows for measuring the hardness of molds and cores effectively within the typical range encountered in foundry applications.",
-        "d": "The range of measurement for mold hardness testers and core hardness testers commonly used in foundries typically falls within the range of 0 to 100 units. This scale allows for measuring the hardness of molds and cores effectively within the typical range encountered in foundry applications."
+        "a": " The experiment focuses on determining the hardness of moulding sand and core samples, which is crucial in the casting process. Mould hardness affects the ability of the mould to withstand external forces without deformation, while core hardness ensures that the core remains intact during metal pouring. Accurate hardness measurements help in preventing casting defects.",
+        "b": " The experiment focuses on determining the hardness of moulding sand and core samples, which is crucial in the casting process. Mould hardness affects the ability of the mould to withstand external forces without deformation, while core hardness ensures that the core remains intact during metal pouring. Accurate hardness measurements help in preventing casting defects.",
+        "c": " The experiment focuses on determining the hardness of moulding sand and core samples, which is crucial in the casting process. Mould hardness affects the ability of the mould to withstand external forces without deformation, while core hardness ensures that the core remains intact during metal pouring. Accurate hardness measurements help in preventing casting defects.",
+        "d": " The experiment focuses on determining the hardness of moulding sand and core samples, which is crucial in the casting process. Mould hardness affects the ability of the mould to withstand external forces without deformation, while core hardness ensures that the core remains intact during metal pouring. Accurate hardness measurements help in preventing casting defects."
       },
-	  
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "2. Which tool is used to transfer moulding sand into the moulding flask:",
+      "question": "Why is it necessary to take multiple hardness readings on the mould? (LO2)",
       "answers": {
-        "a": "Strike-off bar",
-		"b": "Riddle",
-		"c": "Shovel",
-		"d": "Sprue pin"
+        "a": "To increase the overall hardness of the mould",
+        "b": "To get an accurate and uniform measurement of hardness",
+        "c": "To identify soft spots in the sand",
+        "d": "To verify the presence of moisture in the mould"
       },
-	  
       "explanations": {
-        "a": "A shovel is commonly used to scoop up and transfer molding sand from its storage area into the molding flask. This process ensures that the sand is properly distributed and packed within the flask to create the mold cavity.",
-        "b": "A shovel is commonly used to scoop up and transfer molding sand from its storage area into the molding flask. This process ensures that the sand is properly distributed and packed within the flask to create the mold cavity.",
-        "c": "A shovel is commonly used to scoop up and transfer molding sand from its storage area into the molding flask. This process ensures that the sand is properly distributed and packed within the flask to create the mold cavity.",
-        "d": "A shovel is commonly used to scoop up and transfer molding sand from its storage area into the molding flask. This process ensures that the sand is properly distributed and packed within the flask to create the mold cavity."
+        "a": " Hardness can vary at different points of the mould due to inconsistencies in sand compaction. By taking multiple readings, we obtain a more reliable assessment of mould strength. Averaging these readings helps eliminate errors and ensures a uniform mould structure, which is vital for producing high-quality castings.",
+        "b": " Hardness can vary at different points of the mould due to inconsistencies in sand compaction. By taking multiple readings, we obtain a more reliable assessment of mould strength. Averaging these readings helps eliminate errors and ensures a uniform mould structure, which is vital for producing high-quality castings.",
+        "c": " Hardness can vary at different points of the mould due to inconsistencies in sand compaction. By taking multiple readings, we obtain a more reliable assessment of mould strength. Averaging these readings helps eliminate errors and ensures a uniform mould structure, which is vital for producing high-quality castings.",
+        "d": " Hardness can vary at different points of the mould due to inconsistencies in sand compaction. By taking multiple readings, we obtain a more reliable assessment of mould strength. Averaging these readings helps eliminate errors and ensures a uniform mould structure, which is vital for producing high-quality castings."
       },
-	  
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
-	{
-      "question": "3. How many indentations were made in mould hardness test:",
+  {
+      "question": "Why is the rammer used in the mould hardness test? (LO1)",
       "answers": {
-        "a": "3",
-	"b": "1",
-	"c": "4",
-	"d": "5"
+        "a": "To increase the permeability of the mould",
+        "b": "To compact the sand uniformly within the moulding flask",
+        "c": "To mix the sand with binding agents",
+        "d": "To remove excess moisture from the sand"
       },
-	  
       "explanations": {
-        "a": "In some mold hardness testing methods, especially those using instruments like a Brinell hardness tester adapted for mold testing, multiple indentations may be made to obtain an average hardness value across different areas of the mold surface. This approach helps to ensure a more representative measurement of the mold's hardness.",
-        "b": "In some mold hardness testing methods, especially those using instruments like a Brinell hardness tester adapted for mold testing, multiple indentations may be made to obtain an average hardness value across different areas of the mold surface. This approach helps to ensure a more representative measurement of the mold's hardness.",
-        "c": "In some mold hardness testing methods, especially those using instruments like a Brinell hardness tester adapted for mold testing, multiple indentations may be made to obtain an average hardness value across different areas of the mold surface. This approach helps to ensure a more representative measurement of the mold's hardness.",
-        "d": "In some mold hardness testing methods, especially those using instruments like a Brinell hardness tester adapted for mold testing, multiple indentations may be made to obtain an average hardness value across different areas of the mold surface. This approach helps to ensure a more representative measurement of the mold's hardness."
+        "a": " The rammer is used to apply controlled force on the sand to ensure even compaction in the moulding flask. Uniform compaction is crucial because it prevents weak spots that may lead to casting defects like metal penetration or erosion. It also improves the dimensional accuracy of the final casting.",
+        "b": " The rammer is used to apply controlled force on the sand to ensure even compaction in the moulding flask. Uniform compaction is crucial because it prevents weak spots that may lead to casting defects like metal penetration or erosion. It also improves the dimensional accuracy of the final casting.",
+        "c": " The rammer is used to apply controlled force on the sand to ensure even compaction in the moulding flask. Uniform compaction is crucial because it prevents weak spots that may lead to casting defects like metal penetration or erosion. It also improves the dimensional accuracy of the final casting.",
+        "d": " The rammer is used to apply controlled force on the sand to ensure even compaction in the moulding flask. Uniform compaction is crucial because it prevents weak spots that may lead to casting defects like metal penetration or erosion. It also improves the dimensional accuracy of the final casting."
       },
-	  
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
-	{
-      "question": "4. What is measured by core hardness tester:",
+  {
+      "question": "How many hardness readings are taken for the mould hardness test? (LO1)",
       "answers": {
-        "a": "Interior hardness of core",
-	"b": "Surface hardness of core",
-	"c": "Microhardness of core",
-	"d": "Strength of core"
+        "a": "Three",
+        "b": "Five",
+        "c": "Seven",
+        "d": "Ten"
       },
-	  
       "explanations": {
-        "a": "This is the primary measurement taken by core hardness testers. It assesses how hard the core material is throughout its interior.",
-        "b": "While important, surface hardness is typically measured separately and may involve different testing methods or instruments.",
-        "c": "Microhardness testing involves very fine scales and is used to measure the hardness of small regions or features within a material, which is not the main focus of core hardness testing.",
-        "d": "While hardness is related to strength, core hardness testing specifically focuses on measuring the material's resistance to indentation or penetration, not its overall strength under load."
+        "a": "In the mould hardness test, five readings are taken—one from the center and four from the corners of the mould. This method ensures a more comprehensive assessment of the hardness distribution. The average of these readings provides an accurate measure of overall mould hardness, reducing errors caused by localized variations.",
+        "b": "In the mould hardness test, five readings are taken—one from the center and four from the corners of the mould. This method ensures a more comprehensive assessment of the hardness distribution. The average of these readings provides an accurate measure of overall mould hardness, reducing errors caused by localized variations.",
+        "c": "In the mould hardness test, five readings are taken—one from the center and four from the corners of the mould. This method ensures a more comprehensive assessment of the hardness distribution. The average of these readings provides an accurate measure of overall mould hardness, reducing errors caused by localized variations.",
+        "d": "In the mould hardness test, five readings are taken—one from the center and four from the corners of the mould. This method ensures a more comprehensive assessment of the hardness distribution. The average of these readings provides an accurate measure of overall mould hardness, reducing errors caused by localized variations."
       },
-	  
-      "correctAnswer": "a",
-      "difficulty": "Intermediate"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     },
-	{
-      "question": "5. Tip of mould hardness tester is made up of:",
+ {
+      "question": "Why are three readings taken in the core hardness test? (LO2)",
       "answers": {
-        "a": "Alloy steel",
-	"b": "Tungsten Carbide",
-	"c": "Brass",
-	"d": "Cast iron"
+        "a": "To identify the strongest point of the core",
+        "b": "To get an average value for accurate measurement",
+        "c": "To measure the core’s permeability",
+        "d": "To ensure the core does not contain moisture"
       },
-	  
       "explanations": {
-        "a": "Alloy steel is a strong and durable material commonly used for the tips of hardness testers. It can withstand the pressures and wear associated with making indentations on the mold surface to measure hardness.",
-        "b": "Alloy steel is a strong and durable material commonly used for the tips of hardness testers. It can withstand the pressures and wear associated with making indentations on the mold surface to measure hardness.",
-        "c": "Alloy steel is a strong and durable material commonly used for the tips of hardness testers. It can withstand the pressures and wear associated with making indentations on the mold surface to measure hardness.",
-        "d": "Alloy steel is a strong and durable material commonly used for the tips of hardness testers. It can withstand the pressures and wear associated with making indentations on the mold surface to measure hardness."
+        "a": "Taking three readings helps eliminate inconsistencies in hardness measurement caused by minor variations in the core’s surface. The average of these values gives a more precise representation of the core's overall hardness, ensuring it meets the required standards for casting applications.",
+        "b": "Taking three readings helps eliminate inconsistencies in hardness measurement caused by minor variations in the core’s surface. The average of these values gives a more precise representation of the core's overall hardness, ensuring it meets the required standards for casting applications.",
+        "c": "Taking three readings helps eliminate inconsistencies in hardness measurement caused by minor variations in the core’s surface. The average of these values gives a more precise representation of the core's overall hardness, ensuring it meets the required standards for casting applications.",
+        "d": "Taking three readings helps eliminate inconsistencies in hardness measurement caused by minor variations in the core’s surface. The average of these values gives a more precise representation of the core's overall hardness, ensuring it meets the required standards for casting applications."
       },
-	  
-     "correctAnswer": "a",
-      "difficulty": "Intermediate"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
