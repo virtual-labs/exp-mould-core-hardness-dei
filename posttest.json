@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the primary objective of this experiment? (LO1)",
+      "answers": {
+        "a": "To determine the porosity of sand",
+        "b": "To measure the hardness of mould and core samples",
+        "c": "To evaluate the moisture content in the sand",
+        "d": "To determine the permeability of the mould"
+      },
+      "explanations": {
+        "a": " The experiment focuses on determining the hardness of moulding sand and core samples, which is crucial in the casting process. Mould hardness affects the ability of the mould to withstand external forces without deformation, while core hardness ensures that the core remains intact during metal pouring. Accurate hardness measurements help in preventing casting defects.",
+        "b": " The experiment focuses on determining the hardness of moulding sand and core samples, which is crucial in the casting process. Mould hardness affects the ability of the mould to withstand external forces without deformation, while core hardness ensures that the core remains intact during metal pouring. Accurate hardness measurements help in preventing casting defects.",
+        "c": " The experiment focuses on determining the hardness of moulding sand and core samples, which is crucial in the casting process. Mould hardness affects the ability of the mould to withstand external forces without deformation, while core hardness ensures that the core remains intact during metal pouring. Accurate hardness measurements help in preventing casting defects.",
+        "d": " The experiment focuses on determining the hardness of moulding sand and core samples, which is crucial in the casting process. Mould hardness affects the ability of the mould to withstand external forces without deformation, while core hardness ensures that the core remains intact during metal pouring. Accurate hardness measurements help in preventing casting defects."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is it necessary to take multiple hardness readings on the mould? (LO2)",
+      "answers": {
+        "a": "To increase the overall hardness of the mould",
+        "b": "To get an accurate and uniform measurement of hardness",
+        "c": "To identify soft spots in the sand",
+        "d": "To verify the presence of moisture in the mould"
+      },
+      "explanations": {
+        "a": " Hardness can vary at different points of the mould due to inconsistencies in sand compaction. By taking multiple readings, we obtain a more reliable assessment of mould strength. Averaging these readings helps eliminate errors and ensures a uniform mould structure, which is vital for producing high-quality castings.",
+        "b": " Hardness can vary at different points of the mould due to inconsistencies in sand compaction. By taking multiple readings, we obtain a more reliable assessment of mould strength. Averaging these readings helps eliminate errors and ensures a uniform mould structure, which is vital for producing high-quality castings.",
+        "c": " Hardness can vary at different points of the mould due to inconsistencies in sand compaction. By taking multiple readings, we obtain a more reliable assessment of mould strength. Averaging these readings helps eliminate errors and ensures a uniform mould structure, which is vital for producing high-quality castings.",
+        "d": " Hardness can vary at different points of the mould due to inconsistencies in sand compaction. By taking multiple readings, we obtain a more reliable assessment of mould strength. Averaging these readings helps eliminate errors and ensures a uniform mould structure, which is vital for producing high-quality castings."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "Why is the rammer used in the mould hardness test? (LO1)",
+      "answers": {
+        "a": "To increase the permeability of the mould",
+        "b": "To compact the sand uniformly within the moulding flask",
+        "c": "To mix the sand with binding agents",
+        "d": "To remove excess moisture from the sand"
+      },
+      "explanations": {
+        "a": " The rammer is used to apply controlled force on the sand to ensure even compaction in the moulding flask. Uniform compaction is crucial because it prevents weak spots that may lead to casting defects like metal penetration or erosion. It also improves the dimensional accuracy of the final casting.",
+        "b": " The rammer is used to apply controlled force on the sand to ensure even compaction in the moulding flask. Uniform compaction is crucial because it prevents weak spots that may lead to casting defects like metal penetration or erosion. It also improves the dimensional accuracy of the final casting.",
+        "c": " The rammer is used to apply controlled force on the sand to ensure even compaction in the moulding flask. Uniform compaction is crucial because it prevents weak spots that may lead to casting defects like metal penetration or erosion. It also improves the dimensional accuracy of the final casting.",
+        "d": " The rammer is used to apply controlled force on the sand to ensure even compaction in the moulding flask. Uniform compaction is crucial because it prevents weak spots that may lead to casting defects like metal penetration or erosion. It also improves the dimensional accuracy of the final casting."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "How many hardness readings are taken for the mould hardness test? (LO1)",
+      "answers": {
+        "a": "Three",
+        "b": "Five",
+        "c": "Seven",
+        "d": "Ten"
+      },
+      "explanations": {
+        "a": "In the mould hardness test, five readings are taken—one from the center and four from the corners of the mould. This method ensures a more comprehensive assessment of the hardness distribution. The average of these readings provides an accurate measure of overall mould hardness, reducing errors caused by localized variations.",
+        "b": "In the mould hardness test, five readings are taken—one from the center and four from the corners of the mould. This method ensures a more comprehensive assessment of the hardness distribution. The average of these readings provides an accurate measure of overall mould hardness, reducing errors caused by localized variations.",
+        "c": "In the mould hardness test, five readings are taken—one from the center and four from the corners of the mould. This method ensures a more comprehensive assessment of the hardness distribution. The average of these readings provides an accurate measure of overall mould hardness, reducing errors caused by localized variations.",
+        "d": "In the mould hardness test, five readings are taken—one from the center and four from the corners of the mould. This method ensures a more comprehensive assessment of the hardness distribution. The average of these readings provides an accurate measure of overall mould hardness, reducing errors caused by localized variations."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "Why are three readings taken in the core hardness test? (LO2)",
+      "answers": {
+        "a": "To identify the strongest point of the core",
+        "b": "To get an average value for accurate measurement",
+        "c": "To measure the core’s permeability",
+        "d": "To ensure the core does not contain moisture"
+      },
+      "explanations": {
+        "a": "Taking three readings helps eliminate inconsistencies in hardness measurement caused by minor variations in the core’s surface. The average of these values gives a more precise representation of the core's overall hardness, ensuring it meets the required standards for casting applications.",
+        "b": "Taking three readings helps eliminate inconsistencies in hardness measurement caused by minor variations in the core’s surface. The average of these values gives a more precise representation of the core's overall hardness, ensuring it meets the required standards for casting applications.",
+        "c": "Taking three readings helps eliminate inconsistencies in hardness measurement caused by minor variations in the core’s surface. The average of these values gives a more precise representation of the core's overall hardness, ensuring it meets the required standards for casting applications.",
+        "d": "Taking three readings helps eliminate inconsistencies in hardness measurement caused by minor variations in the core’s surface. The average of these values gives a more precise representation of the core's overall hardness, ensuring it meets the required standards for casting applications."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
