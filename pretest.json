@@ -1,0 +1,91 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What does mould hardness measure? (LO1)",
+      "answers": {
+        "a": "The amount of binder in the sand",
+        "b": "The permeability of the mould",
+        "c": "The ramming strength of the mould",
+        "d": "The surface roughness of the casting"
+      },
+      "explanations": {
+        "a": "Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects.",
+        "b": "Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects.",
+        "c": "Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects.",
+        "d": "Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The mould hardness tester is based on which principle? (LO2)",
+      "answers": {
+        "a": "Scratch testing",
+        "b": "Indentation testing",
+        "c": "Electrical resistance testing",
+        "d": "The surface roughness of the casting"
+      },
+      "explanations": {
+       "a": "Mould hardness testers operate on the indentation principle. A steel ball or indentor is pressed into the mould surface under a controlled force, and the depth of penetration is measured to determine hardness. Harder moulds show shallower indentations, while softer moulds allow deeper penetration.",
+        "b":"Mould hardness testers operate on the indentation principle. A steel ball or indentor is pressed into the mould surface under a controlled force, and the depth of penetration is measured to determine hardness. Harder moulds show shallower indentations, while softer moulds allow deeper penetration.",
+        "c":"Mould hardness testers operate on the indentation principle. A steel ball or indentor is pressed into the mould surface under a controlled force, and the depth of penetration is measured to determine hardness. Harder moulds show shallower indentations, while softer moulds allow deeper penetration.",
+        "d":"Mould hardness testers operate on the indentation principle. A steel ball or indentor is pressed into the mould surface under a controlled force, and the depth of penetration is measured to determine hardness. Harder moulds show shallower indentations, while softer moulds allow deeper penetration."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "The dial indicator of a mould hardness tester typically ranges between: (LO2)",
+      "answers": {
+        "a": "0 – 50",
+        "b": "0 – 75",
+        "c": "0 – 100",
+        "d": "0 – 150"
+      },
+      "explanations": {
+        "a": "The mould hardness tester uses a dial indicator with a 0-100 scale, where higher values indicate greater hardness. This standardized range helps foundry workers quickly assess the uniformity and strength of moulds. Measuring hardness ensures the mould is neither too soft (prone to collapse) nor too hard (causing poor metal flow).",
+        "b": "The mould hardness tester uses a dial indicator with a 0-100 scale, where higher values indicate greater hardness. This standardized range helps foundry workers quickly assess the uniformity and strength of moulds. Measuring hardness ensures the mould is neither too soft (prone to collapse) nor too hard (causing poor metal flow).",
+        "c": "The mould hardness tester uses a dial indicator with a 0-100 scale, where higher values indicate greater hardness. This standardized range helps foundry workers quickly assess the uniformity and strength of moulds. Measuring hardness ensures the mould is neither too soft (prone to collapse) nor too hard (causing poor metal flow).",
+        "d": "The mould hardness tester uses a dial indicator with a 0-100 scale, where higher values indicate greater hardness. This standardized range helps foundry workers quickly assess the uniformity and strength of moulds. Measuring hardness ensures the mould is neither too soft (prone to collapse) nor too hard (causing poor metal flow)."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "Which of the following is an application of the mould hardness tester? (LO1)",
+      "answers": {
+        "a": "Measuring the permeability of the mould",
+        "b": "Checking the roughness of the final casting",
+        "c": "Measuring the green mould hardness",
+        "d": "Determining the cooling rate of molten metal"
+        
+      },
+      "explanations": {
+       "a": "The mould hardness tester is primarily used to measure the green hardness of sand moulds before drying or metal pouring. This ensures that the mould has the required strength to withstand the casting process without breaking. Proper hardness also helps control gas escape and metal flow, reducing casting defects like porosity and shrinkage.",
+        "b": "The mould hardness tester is primarily used to measure the green hardness of sand moulds before drying or metal pouring. This ensures that the mould has the required strength to withstand the casting process without breaking. Proper hardness also helps control gas escape and metal flow, reducing casting defects like porosity and shrinkage.",
+        "c": "The mould hardness tester is primarily used to measure the green hardness of sand moulds before drying or metal pouring. This ensures that the mould has the required strength to withstand the casting process without breaking. Proper hardness also helps control gas escape and metal flow, reducing casting defects like porosity and shrinkage.",
+        "d": "The mould hardness tester is primarily used to measure the green hardness of sand moulds before drying or metal pouring. This ensures that the mould has the required strength to withstand the casting process without breaking. Proper hardness also helps control gas escape and metal flow, reducing casting defects like porosity and shrinkage."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "What should NOT be done while using the mould hardness tester? (LO2)",
+      "answers": {
+        "a": "Clean the tester before and after use",
+        "b": "Tamper with the calibration settings",
+        "c": "Ensure proper contact with the mould",
+        "d": "Take multiple readings for accuracy"
+      },
+      "explanations": {
+        "a": "The calibration settings of the mould hardness tester are pre-adjusted to ensure accurate and reliable hardness measurements. Tampering with these settings can lead to misleading results, affecting quality control and causing defects in the final casting. To ensure precise measurements, the device should be properly maintained and used as per standard operating procedures.",
+        "b": "The calibration settings of the mould hardness tester are pre-adjusted to ensure accurate and reliable hardness measurements. Tampering with these settings can lead to misleading results, affecting quality control and causing defects in the final casting. To ensure precise measurements, the device should be properly maintained and used as per standard operating procedures.",
+        "c": "The calibration settings of the mould hardness tester are pre-adjusted to ensure accurate and reliable hardness measurements. Tampering with these settings can lead to misleading results, affecting quality control and causing defects in the final casting. To ensure precise measurements, the device should be properly maintained and used as per standard operating procedures.",
+        "d": "The calibration settings of the mould hardness tester are pre-adjusted to ensure accurate and reliable hardness measurements. Tampering with these settings can lead to misleading results, affecting quality control and causing defects in the final casting. To ensure precise measurements, the device should be properly maintained and used as per standard operating procedures."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

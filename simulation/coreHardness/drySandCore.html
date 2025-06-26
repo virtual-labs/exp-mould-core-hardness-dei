@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+	<div id="simulation-cont">
+		<div id="matwork">
+			<div style="height:700px;">
+				Dry Sand Core Hardness Testing<br>
+				<div class="simulation" id="drySandCore"><br>
+				<img src="images/drySandTester.jpg" width="45%" title="Click Here"><br>
+				</div>
+				
+				<div class="okContainer" id="drySurface1">
+				<b style="color:red;">Click on <u>OK</u> for dry sand core hardness testing</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click Here" onclick="drySurface1()">
+				</div>
+				
+				<div class="sideContainer" id="dryReading1">
+				<center><table border="1" width="250px">
+				<tr><th>Surface No.</th><th>Reading</th></tr>
+				<tr><th>Surface-1</th><th>53</th></tr>
+				</table></center>
+				</div>
+				
+				<div class="sideContainer" id="drySandSurface1">
+				<b style="color:red;">Click on <u>NEXT</u></b><br>
+				<img src="images/next.jpg" width="30%" title="Click Here" onclick="drySurface2()">
+				</div>
+				
+				<div class="sideContainer" id="dryReading2">
+				<center><table border="1" width="250px">
+				<tr><th>Surface No.</th><th>Reading</th></tr>
+				<tr><th>Surface-1</th><th>53</th></tr>
+				<tr><th>Surface-2</th><th>58</th></tr>
+				</table></center>
+				</div>
+				
+				<div class="sideContainer" id="drySandSurface2">
+				<b style="color:red;">Click on <u>NEXT</u></b><br>
+				<img src="images/next.jpg" width="30%" title="Click Here" onclick="drySurface3()">
+				</div>
+				
+				<div class="sideContainer" id="dryReading3">
+				<center><table border="1" width="250px">
+				<tr><th>Surface No.</th><th>Reading</th></tr>
+				<tr><th>Surface-1</th><th>53</th></tr>
+				<tr><th>Surface-2</th><th>58</th></tr>
+				<tr><th>Surface-3</th><th>57</th></tr>
+				</table></center>
+				</div>
+				
+				<div class="sideContainer" id="drySandSurface3">
+				<b style="color:red;">Click on <u>RESULT</u></b><br><br>
+				<img src="images/result.jpg" width="25%" title="Click Here" onclick="dryResult()">
+				</div>
+								
+				<div class="sideContainer" id="dryObservations" style="margin-left:400px;">
+				<center>
+				Observations and Result<br><br>
+				<table border="1" width="300px">
+				<tr><th>Surface No.</th><th>Reading</th></tr>
+				<tr><th>Surface-1</th><th>53</th></tr>
+				<tr><th>Surface-2</th><th>58</th></tr>
+				<tr><th>Surface-3</th><th>57</th></tr>
+				<tr><th>Average</th><th>56</th></tr>
+				</table></center>
+				</div>
+		</div>
+	<img src="images/reset.jpg" align="right" width="7%" onclick="resetfun()"><br>
+<hr>
+	<div id="about">
+		<div class="box" id="zoom">
+			<img src="images/GreenSandCore.jpg" title="Green Sand Core">
+			<h3 class="h-secondary center">Green Sand Core</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/drySandCore.jpg" title="Dry Sand Core">
+			<h3 class="h-secondary center">Dry Sand Core</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/HardnessTester.jpg" title="Core Hardness Tester" width="99%">
+			<h3 class="h-secondary center">Hardness Tester</h3>
+		</div>
+	</div>
+	</div>
+</div>
+<div style="margin-top:25px" id="footer">
+<hr>
+<Marquee>
+Copyright &copy; Dayalbagh Educational Institute&nbsp;<a href="https://www.dei.ac.in" target="_blank" title="DEI">(www.dei.ac.in)</a>&nbsp;-&nbsp;<a href="http://msvs-dei.vlabs.ac.in/ajay/index.html" target="_blank" title="Profile">Ajay Kant Upadhyay</a>
+</Marquee>
+</div>
+</body>
+</html>

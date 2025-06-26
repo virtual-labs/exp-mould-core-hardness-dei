@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+	<div id="simulation-cont">
+		<div id="matwork">
+			<div style="height:700px;">
+				Determination of Mould Hardness<br>
+				
+				<div class="simulation" id="mouldHardness"><br>
+				<img src="images/shovelToSand.jpg" width="65%" title="Shovel to lift sand"><br>
+				</div>
+				
+				<div class="okContainer" id="sandInFlask">
+				<b style="color:red;">Click on <u>OK</u> to transfer the sand to the moulding flask</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click Here" onclick="sandInFlask()">
+				</div>
+				
+				<div class="sideContainer" id="flaskWithSand">
+				<b style="color:red;">Click on <u>OK</u> to get filled moulding flask with sand</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click Here" onclick="flaskWithSand()">
+				</div>
+				
+				<div class="sideContainer" id="sandRamming">
+				<b style="color:red;">Click on <u>NEXT</u> to ramming the sand in moulding flask</b><br>
+				<img src="images/next.jpg" width="30%" title="Click Here" onclick="sandRamming()">
+				</div>
+				
+				<div class="sideContainer" id="sandReading">
+				<b style="color:red;">Click on <u>NEXT</u> to take reading of rammed sand</b><br>
+				<img src="images/next.jpg" width="30%" title="Click Here" onclick="sandReading()">
+				</div>
+				
+				<div class="sideContainer" id="reading">
+				<center><table border="1" width="250px">
+				<tr><th>Position</th><th>Reading</th></tr>
+				<tr><th>Center</th><th>77</th></tr>
+				<tr><th>Corner 1</th><th>80</th></tr>
+				<tr><th>Corner 2</th><th>73</th></tr>
+				<tr><th>Corner 3</th><th>77</th></tr>
+				<tr><th>Corner 4</th><th>80</th></tr>
+				</table></center><br>
+				<b style="color:red;">Click on <u>RESULT</u></b><br><br>
+				<img src="images/result.jpg" width="25%" title="Click Here" onclick="result()">
+				</div>
+				
+				<div class="sideContainer" id="result" style="margin-left:400px;">
+				<center>
+				Observations and Result<br><br>
+				<table border="1" width="250px">
+				<tr><th>Position</th><th>Reading</th></tr>
+				<tr><th>Center</th><th>77</th></tr>
+				<tr><th>Corner 1</th><th>80</th></tr>
+				<tr><th>Corner 2</th><th>73</th></tr>
+				<tr><th>Corner 3</th><th>77</th></tr>
+				<tr><th>Corner 4</th><th>80</th></tr>
+				<tr><th>Average</th><th>77.40</th></tr>
+				</table></center>
+				</div>
+				
+		</div>
+	<img src="images/reset.jpg" align="right" width="7%" onclick="resetfun()"><br>
+<hr>
+	<div id="about">
+		<div class="box" id="zoom">
+			<img src="images/shovel.jpg" title="Shovel">
+			<h3 class="h-secondary center">Shovel</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/rammer.jpg" title="Rammer">
+			<h3 class="h-secondary center">Rammer</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/mouldingFlask.jpg" title="Moulding Flask" width="99%">
+			<h3 class="h-secondary center">Moulding Flask</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/sand.jpg" title="Sand" width="99%">
+			<h3 class="h-secondary center">Sand</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/mouldHardnessTester.jpg" title="Mould Hardness Tester" width="99%">
+			<h3 class="h-secondary center">Mould Hardness Tester</h3>
+		</div>
+	</div>
+	</div>
+</div>
+<div style="margin-top:25px" id="footer">
+<hr>
+<Marquee>
+Copyright &copy; Dayalbagh Educational Institute&nbsp;<a href="https://www.dei.ac.in" target="_blank" title="DEI">(www.dei.ac.in)</a>&nbsp;-&nbsp;<a href="http://msvs-dei.vlabs.ac.in/ajay/index.html" target="_blank" title="Profile">Ajay Kant Upadhyay</a>
+</Marquee>
+</div>
+</body>
+</html>
