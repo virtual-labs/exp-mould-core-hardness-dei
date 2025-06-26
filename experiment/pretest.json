@@ -10,10 +10,10 @@
         "d": "The surface roughness of the casting"
       },
       "explanations": {
-        "a": ": Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects.",
-        "b": ": Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects.",
-        "c": ": Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects.",
-        "d": ": Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects."
+        "a": "Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects.",
+        "b": "Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects.",
+        "c": "Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects.",
+        "d": "Mould hardness indicates how well the sand has been compacted or rammed in the mould. Proper ramming increases the density and strength of the mould, ensuring it holds its shape during metal pouring. If the ramming is insufficient, the mould may collapse or deform under the pressure of molten metal, leading to casting defects."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
