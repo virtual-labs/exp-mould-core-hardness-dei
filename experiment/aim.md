@@ -1,4 +1,6 @@
-### To determine mould hardness and core hardness of the given sample.
+### Aim
+
+To determine mould hardness and core hardness of the given sample.
 
 ### Learning Objectives:
 
